@@ -1,0 +1,19 @@
+A CSOPORT
+
+1: Az inline felhasználja az egész sort.A blokk minden esetben új sort kezd.
+2: <meta http-equiv=refresh content='5' />
+3: <p style='backroundcolor='red' color='black'/> <span>valami.</span></p>
+4: <meta> author:name= 'Zétény' />
+5: <img src='../../'alt='kép' 'jpg' />
+
++1 
+<!DOCTYPE html>
+<html lang='hu'>
+        <meta> charset='utf-8' </meta>
+        <title>valami</title>
+
+<body>
+<head>
+</head>
+</body>
+</html>
